@@ -15,3 +15,6 @@ FPS Limit: The Maximum FPS
 Vertical Sync: (0/1)
 
 Use Green Background: (0/1)
+
+# [/SKIN]
+Make sure the aspect ratio is 1:1
